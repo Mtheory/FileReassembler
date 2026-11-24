@@ -1,0 +1,2 @@
+# The split parts are raw binary data: never convert line endings in them
+parts/* binary
